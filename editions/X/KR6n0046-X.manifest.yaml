@@ -1,0 +1,206 @@
+canonical_identifier: bkk:krp/KR6n0046/X/v1
+canonical_location: https://kanripo.org/bkk/KR6n0046/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成唯識論自攷
+  identifiers:
+    krp: KR6n0046
+    cbeta: X51n0823
+    cbeta_old_id: X51n0823
+    authorityid: CA0000470
+    json_key: X0823
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X51/X51n0823.xml
+    old_id: X51n0823
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0046_000-X.yaml, hash: 'sha256:c8ee652a4b8d61885da1cab0581ca51ebafcd5a83c56ad45f293559535429596'}
+  - {seq: 1, filename: KR6n0046_001-X.yaml, hash: 'sha256:1a81c7759d75e0035c28de5f8848a22d80a6cb83fe43fa0d169f1403e500fd11'}
+  - {seq: 2, filename: KR6n0046_002-X.yaml, hash: 'sha256:61cee2c7eba210a78171c29401335397281b7158937599048bbd30e883d5fbda'}
+  - {seq: 3, filename: KR6n0046_003-X.yaml, hash: 'sha256:1adbf252c4212cb6fabff9850da3cea07235bffc7205412cddf7704070ea7ec2'}
+  - {seq: 4, filename: KR6n0046_004-X.yaml, hash: 'sha256:20b4003933c5530b32b0b31f58855f90b42cb47d938f7b736566ce2e71f7ba00'}
+  - {seq: 5, filename: KR6n0046_005-X.yaml, hash: 'sha256:b7ce692f1806ab075d6435124dcebf0d41382463c5fa65c2b8585ce5e2d89469'}
+  - {seq: 6, filename: KR6n0046_006-X.yaml, hash: 'sha256:5e66d5e92d58759b72bb365d8a47e62985e9da79e923a2b2a16f2dd766924eae'}
+  - {seq: 7, filename: KR6n0046_007-X.yaml, hash: 'sha256:d869875cdc498224c7ae8e411a396bb4c7309ebe936e569cc9a04b95153be398'}
+  - {seq: 8, filename: KR6n0046_008-X.yaml, hash: 'sha256:f11ca1e308f885f1dd91c1693f4bc93db3451471817740eaf7a401900d8c91c3'}
+  - {seq: 9, filename: KR6n0046_009-X.yaml, hash: 'sha256:d6b13830d8ddf9e4ff78201f1780b6d7ff745081efaaf094d5353543ec1ad06b'}
+  - {seq: 10, filename: KR6n0046_010-X.yaml, hash: 'sha256:3e5c523002a7c23f8cefae36e236006d39b32f00f0b62bba2efe94d780edd9e4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0046_000-X.markers.yaml, hash: 'sha256:e2fe66e844803905d0b45cf55de0cab6182df782d49416df370435a0f6e55744'}
+  - {seq: 1, role: markers, filename: assets/KR6n0046_001-X.markers.yaml, hash: 'sha256:4fa72ff2916258d127e60d53358530b91f99a568adc3ec70216a0657d2e86af9'}
+  - {seq: 2, role: markers, filename: assets/KR6n0046_002-X.markers.yaml, hash: 'sha256:46d6c65457d258c4943126f7e8c7739e79cbed55ccab396f77518b24d773d078'}
+  - {seq: 3, role: markers, filename: assets/KR6n0046_003-X.markers.yaml, hash: 'sha256:4b723fbce314ba2ec0b885d1299157e988ca8499076b7083f801dce353988b2a'}
+  - {seq: 4, role: markers, filename: assets/KR6n0046_004-X.markers.yaml, hash: 'sha256:eda7d3c210b84c30266c83741a362c40dc02738a5d3ac309129d39809d20a50b'}
+  - {seq: 5, role: markers, filename: assets/KR6n0046_005-X.markers.yaml, hash: 'sha256:07e6d74045e010aec5b2137baf7a039ea2ec163e8bdbc44e18b97ecbe6b50702'}
+  - {seq: 6, role: markers, filename: assets/KR6n0046_006-X.markers.yaml, hash: 'sha256:4a2ca997f747f893b9d6fbb8081b62dc81ae3e928dbd5654fb92e22ddbe88e8c'}
+  - {seq: 7, role: markers, filename: assets/KR6n0046_007-X.markers.yaml, hash: 'sha256:51c107ad48e11108e249e5b3c8252247d54222ae938663469d8dc83d9c42d93e'}
+  - {seq: 8, role: markers, filename: assets/KR6n0046_008-X.markers.yaml, hash: 'sha256:e66092d428634b63264cb48196832082a3463546f7376644bc54b762eefcfaff'}
+  - {seq: 9, role: markers, filename: assets/KR6n0046_009-X.markers.yaml, hash: 'sha256:07c2a98e070532f59931694261d6c24dee4fbfb10cea3cf4c9f1505776f05e6f'}
+  - {seq: 10, role: markers, filename: assets/KR6n0046_010-X.markers.yaml, hash: 'sha256:67aa804c06e79cf191b020f935e61e6364391f9f9fdc731fbdfcb65031bdc441'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6n0046_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 823-A 重刻成唯識論自攷錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0046_X_000-mulu-2
+    span:
+    - front
+    - 1106
+    - 1106
+  label: No. 823-B 成唯識論自攷錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0046_X_000-mulu-3
+    span:
+    - front
+    - 1648
+    - 1648
+  label: No. 823-C 成唯識論自攷錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0046_X_000-mulu-4
+    span:
+    - front
+    - 2669
+    - 2669
+  label: No. 823-D 成唯識論自攷錄緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0046_X_000-mulu-5
+    span:
+    - front
+    - 3395
+    - 3395
+  label: 成唯識論自攷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0046_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 20333
+  label: 成唯識論自攷卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0046_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 17381
+  label: 成唯識論自攷卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0046_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 17245
+  label: 成唯識論自攷卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0046_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 17796
+  label: 成唯識論自攷卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0046_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 19161
+  label: 成唯識論自攷卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0046_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 18658
+  label: 成唯識論自攷卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0046_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 19903
+  label: 成唯識論自攷卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0046_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 21021
+  label: 成唯識論自攷卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0046_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 17378
+  label: 成唯識論自攷卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0046_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 15402
+  label: 成唯識論自攷卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0046_X_010-mulu-1
+    span:
+    - body
+    - 15075
+    - 15075
+  label: No. 823-E 唯識自攷後䟦
+  type: mulu
+  level: 1
+hash: sha256:3cf6b1a4826a0d8bff7bb05c0d8e34cc63b1907fc922b608777b437f2e56d35e
