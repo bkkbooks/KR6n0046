@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6n0046_000.yaml, hash: 'sha256:21af6e5d419b4998c9048b770ed2ec44ad3f2c123974c05070fad966dad93b9f'}
+  - {seq: 0, filename: KR6n0046_000.yaml, hash: 'sha256:720268df11a3e72029acc27482bbddee283f24f1171f67c6435391f935df47f8'}
   - {seq: 1, filename: KR6n0046_001.yaml, hash: 'sha256:c58c15658b2d093d8872b4537de28fcbff908c3dfc500e8f404f45badede06b3'}
   - {seq: 2, filename: KR6n0046_002.yaml, hash: 'sha256:585346f993fa95a7abc78f9128789696925e18ad9eda8a9ffc83604cc1fb1703'}
   - {seq: 3, filename: KR6n0046_003.yaml, hash: 'sha256:c6e31fad57ea1dee3a110a00d1636b41efa26e7cd79b7c24c5227c30aab220c6'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6n0046_009.yaml, hash: 'sha256:449671a5770a67a95f5a6466fb8a6c6a9e806b1cb9c072aae1ebc17460f9a59f'}
   - {seq: 10, filename: KR6n0046_010.yaml, hash: 'sha256:a1ad95bbe002c014a5f49b825393f198c79724bc89f9053cfe0ea335a72c3608'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0046_000.markers.yaml, hash: 'sha256:d7df22db16babd65b1df1873e0a9e10e00fb688649ee53ff15dd2bba802a89b2'}
+  - {seq: 0, role: markers, filename: assets/KR6n0046_000.markers.yaml, hash: 'sha256:ecf811877ee86b2c2756aa44b66a601318b95a207b9e741460d7002f4eb23bc9'}
   - {seq: 1, role: markers, filename: assets/KR6n0046_001.markers.yaml, hash: 'sha256:3b95c7511a089b94998bfc51604ceba671b4e4e93e161a7dc8d8f284659b426e'}
   - {seq: 2, role: markers, filename: assets/KR6n0046_002.markers.yaml, hash: 'sha256:8b09adf162226edb04b693adae96b1857c7f3a499d3a8a63b0362453f034e35a'}
   - {seq: 3, role: markers, filename: assets/KR6n0046_003.markers.yaml, hash: 'sha256:bf0e439fd994bb655f130c44d228099155cbe70cc081f0bde7f0abd6fbee60db'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0046_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 823-A 重刻成唯識論自攷錄序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0046_X_000-mulu-2
     span:
-    - front
+    - body
     - 1106
     - 1106
   label: No. 823-B 成唯識論自攷錄序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0046_X_000-mulu-3
     span:
-    - front
+    - body
     - 1648
     - 1648
   label: No. 823-C 成唯識論自攷錄序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0046_X_000-mulu-4
     span:
-    - front
+    - body
     - 2669
     - 2669
   label: No. 823-D 成唯識論自攷錄緣起
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0046_X_000-mulu-5
     span:
-    - front
+    - body
     - 3395
     - 3395
   label: 成唯識論自攷
@@ -205,7 +205,7 @@ table_of_contents:
   label: No. 823-E 唯識自攷後䟦
   type: mulu
   level: 1
-hash: sha256:e2aeeba2fba3773d42c1a0982f4fa3578f0c6d492d0d9d1e6c9dd57a7aaa2373
+hash: sha256:728067da1d1872a5cd7b2991d1d4ff945a987b6be26390cdf8e25e1431ef4976
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
